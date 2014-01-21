@@ -1,0 +1,2694 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Results - R.V. College of Engineering,Bangalore</title>
+<link href="images/basic.css" rel="stylesheet" type="text/css" />
+<META name="ROBOTS" content="NOINDEX, NOFOLLOW">
+</head>
+
+<body>
+<link href="images/basic_admin.css" rel="stylesheet" type="text/css" />
+<div id="header">
+<div id="logo"></div>
+</div><form action="" method="post">
+<center>
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTable">
+	<tr class="headingText">
+		<th height="35" colspan="2" width="60%">
+		<center>Provisional  &nbsp;EC 1 Sem Results Dec-13/Jan-14</th>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Level</td>
+		<td width="40%" align="left">Under Graduation</td>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Program</td>
+		<td width="40%" align="left">Engineering</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Branch</td>
+		<td width="40%" align="left">Electronics & Comm Engg</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Semester</td>
+		<td width="40%" align="left">1</td>
+	</tr>	
+	
+	<tr>	
+		<td width="20%" align="right">USN Number</td>
+		<td width="40%">
+		<input name="usn" type="text" class="input_box" value="1RV13EC001" />
+		<input name="get_result" type="submit" class="inputButton" value="Get Result"/>
+		<font color="#EE0000"><b></b></font></td></td>
+	</tr>
+</table>
+
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTablenew">
+	<tr id="dataTable1">
+		<th width="10%" align="center">Subject Code</th>
+		<th width="40%" align="center">Subject</th>
+		<th width="10%" align="center">Grade</th>
+	</tr>
+<div ><font style="background-color:#3399FF">Name&nbsp;:&nbsp;A LALIT KUMAR</font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CH12</td>
+				<td width="40%" align="left">Engineering Chemistry</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CS13</td>
+				<td width="40%" align="left">Programming in C</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12EC14</td>
+				<td width="40%" align="left">Basics of Electronics Engineering</td>			
+				<td>
+				B	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12ME15</td>
+				<td width="40%" align="left">Basics of Mechanical Engineering</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12MA11C</td>
+				<td width="40%" align="left">Applied Mathematics-I</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+						<tr><td colspan="3">&nbsp;</td></tr>
+					 <tr  style="background:#FFFF00"><td align="center"><strong>SGPA</strong></td><td align="right" colspan="2">
+					 <strong>8.8</strong></td></tr>
+
+		</tr>
+</table>
+
+
+<table width="60%" id="dataTable" border="0" cellpadding="0" cellspacing="0">	
+	<tr> 
+		<td width="60%" colspan="3" align="center">Key to Grades: S-10, A-9, B-8, C-7, D-5, E-4</td>
+	</tr>
+	
+	<tr id="resultview"> 
+		<td width="60%" colspan="3" align="center"><a href="display_index.php">Back</a>	</td>
+	</tr>
+	
+	<tr>
+	<td width="60%" height="20" colspan="3" align="center"><font color="#EE0000"><b></b></font></td>	
+	</tr>
+</table>
+		
+</center>
+</form>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Results - R.V. College of Engineering,Bangalore</title>
+<link href="images/basic.css" rel="stylesheet" type="text/css" />
+<META name="ROBOTS" content="NOINDEX, NOFOLLOW">
+</head>
+
+<body>
+<link href="images/basic_admin.css" rel="stylesheet" type="text/css" />
+<div id="header">
+<div id="logo"></div>
+</div><form action="" method="post">
+<center>
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTable">
+	<tr class="headingText">
+		<th height="35" colspan="2" width="60%">
+		<center>Provisional  &nbsp;EC 1 Sem Results Dec-13/Jan-14</th>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Level</td>
+		<td width="40%" align="left">Under Graduation</td>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Program</td>
+		<td width="40%" align="left">Engineering</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Branch</td>
+		<td width="40%" align="left">Electronics & Comm Engg</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Semester</td>
+		<td width="40%" align="left">1</td>
+	</tr>	
+	
+	<tr>	
+		<td width="20%" align="right">USN Number</td>
+		<td width="40%">
+		<input name="usn" type="text" class="input_box" value="1RV13EC002" />
+		<input name="get_result" type="submit" class="inputButton" value="Get Result"/>
+		<font color="#EE0000"><b></b></font></td></td>
+	</tr>
+</table>
+
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTablenew">
+	<tr id="dataTable1">
+		<th width="10%" align="center">Subject Code</th>
+		<th width="40%" align="center">Subject</th>
+		<th width="10%" align="center">Grade</th>
+	</tr>
+<div ><font style="background-color:#3399FF">Name&nbsp;:&nbsp;ABHIJEET K NAYAK</font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CH12</td>
+				<td width="40%" align="left">Engineering Chemistry</td>			
+				<td>
+				S	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CS13</td>
+				<td width="40%" align="left">Programming in C</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12EC14</td>
+				<td width="40%" align="left">Basics of Electronics Engineering</td>			
+				<td>
+				S	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12ME15</td>
+				<td width="40%" align="left">Basics of Mechanical Engineering</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12MA11C</td>
+				<td width="40%" align="left">Applied Mathematics-I</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+						<tr><td colspan="3">&nbsp;</td></tr>
+					 <tr  style="background:#FFFF00"><td align="center"><strong>SGPA</strong></td><td align="right" colspan="2">
+					 <strong>9.4</strong></td></tr>
+
+		</tr>
+</table>
+
+
+<table width="60%" id="dataTable" border="0" cellpadding="0" cellspacing="0">	
+	<tr> 
+		<td width="60%" colspan="3" align="center">Key to Grades: S-10, A-9, B-8, C-7, D-5, E-4</td>
+	</tr>
+	
+	<tr id="resultview"> 
+		<td width="60%" colspan="3" align="center"><a href="display_index.php">Back</a>	</td>
+	</tr>
+	
+	<tr>
+	<td width="60%" height="20" colspan="3" align="center"><font color="#EE0000"><b></b></font></td>	
+	</tr>
+</table>
+		
+</center>
+</form>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Results - R.V. College of Engineering,Bangalore</title>
+<link href="images/basic.css" rel="stylesheet" type="text/css" />
+<META name="ROBOTS" content="NOINDEX, NOFOLLOW">
+</head>
+
+<body>
+<link href="images/basic_admin.css" rel="stylesheet" type="text/css" />
+<div id="header">
+<div id="logo"></div>
+</div><form action="" method="post">
+<center>
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTable">
+	<tr class="headingText">
+		<th height="35" colspan="2" width="60%">
+		<center>Provisional  &nbsp;EC 1 Sem Results Dec-13/Jan-14</th>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Level</td>
+		<td width="40%" align="left">Under Graduation</td>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Program</td>
+		<td width="40%" align="left">Engineering</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Branch</td>
+		<td width="40%" align="left">Electronics & Comm Engg</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Semester</td>
+		<td width="40%" align="left">1</td>
+	</tr>	
+	
+	<tr>	
+		<td width="20%" align="right">USN Number</td>
+		<td width="40%">
+		<input name="usn" type="text" class="input_box" value="1RV13EC003" />
+		<input name="get_result" type="submit" class="inputButton" value="Get Result"/>
+		<font color="#EE0000"><b></b></font></td></td>
+	</tr>
+</table>
+
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTablenew">
+	<tr id="dataTable1">
+		<th width="10%" align="center">Subject Code</th>
+		<th width="40%" align="center">Subject</th>
+		<th width="10%" align="center">Grade</th>
+	</tr>
+<div ><font style="background-color:#3399FF">Name&nbsp;:&nbsp;ABHIJITH R</font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CH12</td>
+				<td width="40%" align="left">Engineering Chemistry</td>			
+				<td>
+				S	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CS13</td>
+				<td width="40%" align="left">Programming in C</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12EC14</td>
+				<td width="40%" align="left">Basics of Electronics Engineering</td>			
+				<td>
+				B	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12ME15</td>
+				<td width="40%" align="left">Basics of Mechanical Engineering</td>			
+				<td>
+				S	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12MA11C</td>
+				<td width="40%" align="left">Applied Mathematics-I</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+						<tr><td colspan="3">&nbsp;</td></tr>
+					 <tr  style="background:#FFFF00"><td align="center"><strong>SGPA</strong></td><td align="right" colspan="2">
+					 <strong>9.2</strong></td></tr>
+
+		</tr>
+</table>
+
+
+<table width="60%" id="dataTable" border="0" cellpadding="0" cellspacing="0">	
+	<tr> 
+		<td width="60%" colspan="3" align="center">Key to Grades: S-10, A-9, B-8, C-7, D-5, E-4</td>
+	</tr>
+	
+	<tr id="resultview"> 
+		<td width="60%" colspan="3" align="center"><a href="display_index.php">Back</a>	</td>
+	</tr>
+	
+	<tr>
+	<td width="60%" height="20" colspan="3" align="center"><font color="#EE0000"><b></b></font></td>	
+	</tr>
+</table>
+		
+</center>
+</form>
+</body>
+</html>
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Results - R.V. College of Engineering,Bangalore</title>
+<link href="images/basic.css" rel="stylesheet" type="text/css" />
+<META name="ROBOTS" content="NOINDEX, NOFOLLOW">
+</head>
+
+<body>
+<link href="images/basic_admin.css" rel="stylesheet" type="text/css" />
+<div id="header">
+<div id="logo"></div>
+</div><form action="" method="post">
+<center>
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTable">
+	<tr class="headingText">
+		<th height="35" colspan="2" width="60%">
+		<center>Provisional  &nbsp;EC 1 Sem Results Dec-13/Jan-14</th>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Level</td>
+		<td width="40%" align="left">Under Graduation</td>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Program</td>
+		<td width="40%" align="left">Engineering</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Branch</td>
+		<td width="40%" align="left">Electronics & Comm Engg</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Semester</td>
+		<td width="40%" align="left">1</td>
+	</tr>	
+	
+	<tr>	
+		<td width="20%" align="right">USN Number</td>
+		<td width="40%">
+		<input name="usn" type="text" class="input_box" value="1RV13EC001" />
+		<input name="get_result" type="submit" class="inputButton" value="Get Result"/>
+		<font color="#EE0000"><b></b></font></td></td>
+	</tr>
+</table>
+
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTablenew">
+	<tr id="dataTable1">
+		<th width="10%" align="center">Subject Code</th>
+		<th width="40%" align="center">Subject</th>
+		<th width="10%" align="center">Grade</th>
+	</tr>
+<div ><font style="background-color:#3399FF">Name&nbsp;:&nbsp;A LALIT KUMAR</font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CH12</td>
+				<td width="40%" align="left">Engineering Chemistry</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CS13</td>
+				<td width="40%" align="left">Programming in C</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12EC14</td>
+				<td width="40%" align="left">Basics of Electronics Engineering</td>			
+				<td>
+				B	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12ME15</td>
+				<td width="40%" align="left">Basics of Mechanical Engineering</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12MA11C</td>
+				<td width="40%" align="left">Applied Mathematics-I</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+						<tr><td colspan="3">&nbsp;</td></tr>
+					 <tr  style="background:#FFFF00"><td align="center"><strong>SGPA</strong></td><td align="right" colspan="2">
+					 <strong>8.8</strong></td></tr>
+
+		</tr>
+</table>
+
+
+<table width="60%" id="dataTable" border="0" cellpadding="0" cellspacing="0">	
+	<tr> 
+		<td width="60%" colspan="3" align="center">Key to Grades: S-10, A-9, B-8, C-7, D-5, E-4</td>
+	</tr>
+	
+	<tr id="resultview"> 
+		<td width="60%" colspan="3" align="center"><a href="display_index.php">Back</a>	</td>
+	</tr>
+	
+	<tr>
+	<td width="60%" height="20" colspan="3" align="center"><font color="#EE0000"><b></b></font></td>	
+	</tr>
+</table>
+		
+</center>
+</form>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Results - R.V. College of Engineering,Bangalore</title>
+<link href="images/basic.css" rel="stylesheet" type="text/css" />
+<META name="ROBOTS" content="NOINDEX, NOFOLLOW">
+</head>
+
+<body>
+<link href="images/basic_admin.css" rel="stylesheet" type="text/css" />
+<div id="header">
+<div id="logo"></div>
+</div><form action="" method="post">
+<center>
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTable">
+	<tr class="headingText">
+		<th height="35" colspan="2" width="60%">
+		<center>Provisional  &nbsp;EC 1 Sem Results Dec-13/Jan-14</th>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Level</td>
+		<td width="40%" align="left">Under Graduation</td>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Program</td>
+		<td width="40%" align="left">Engineering</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Branch</td>
+		<td width="40%" align="left">Electronics & Comm Engg</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Semester</td>
+		<td width="40%" align="left">1</td>
+	</tr>	
+	
+	<tr>	
+		<td width="20%" align="right">USN Number</td>
+		<td width="40%">
+		<input name="usn" type="text" class="input_box" value="1RV13EC002" />
+		<input name="get_result" type="submit" class="inputButton" value="Get Result"/>
+		<font color="#EE0000"><b></b></font></td></td>
+	</tr>
+</table>
+
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTablenew">
+	<tr id="dataTable1">
+		<th width="10%" align="center">Subject Code</th>
+		<th width="40%" align="center">Subject</th>
+		<th width="10%" align="center">Grade</th>
+	</tr>
+<div ><font style="background-color:#3399FF">Name&nbsp;:&nbsp;ABHIJEET K NAYAK</font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CH12</td>
+				<td width="40%" align="left">Engineering Chemistry</td>			
+				<td>
+				S	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CS13</td>
+				<td width="40%" align="left">Programming in C</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12EC14</td>
+				<td width="40%" align="left">Basics of Electronics Engineering</td>			
+				<td>
+				S	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12ME15</td>
+				<td width="40%" align="left">Basics of Mechanical Engineering</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12MA11C</td>
+				<td width="40%" align="left">Applied Mathematics-I</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+						<tr><td colspan="3">&nbsp;</td></tr>
+					 <tr  style="background:#FFFF00"><td align="center"><strong>SGPA</strong></td><td align="right" colspan="2">
+					 <strong>9.4</strong></td></tr>
+
+		</tr>
+</table>
+
+
+<table width="60%" id="dataTable" border="0" cellpadding="0" cellspacing="0">	
+	<tr> 
+		<td width="60%" colspan="3" align="center">Key to Grades: S-10, A-9, B-8, C-7, D-5, E-4</td>
+	</tr>
+	
+	<tr id="resultview"> 
+		<td width="60%" colspan="3" align="center"><a href="display_index.php">Back</a>	</td>
+	</tr>
+	
+	<tr>
+	<td width="60%" height="20" colspan="3" align="center"><font color="#EE0000"><b></b></font></td>	
+	</tr>
+</table>
+		
+</center>
+</form>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Results - R.V. College of Engineering,Bangalore</title>
+<link href="images/basic.css" rel="stylesheet" type="text/css" />
+<META name="ROBOTS" content="NOINDEX, NOFOLLOW">
+</head>
+
+<body>
+<link href="images/basic_admin.css" rel="stylesheet" type="text/css" />
+<div id="header">
+<div id="logo"></div>
+</div><form action="" method="post">
+<center>
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTable">
+	<tr class="headingText">
+		<th height="35" colspan="2" width="60%">
+		<center>Provisional  &nbsp;EC 1 Sem Results Dec-13/Jan-14</th>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Level</td>
+		<td width="40%" align="left">Under Graduation</td>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Program</td>
+		<td width="40%" align="left">Engineering</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Branch</td>
+		<td width="40%" align="left">Electronics & Comm Engg</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Semester</td>
+		<td width="40%" align="left">1</td>
+	</tr>	
+	
+	<tr>	
+		<td width="20%" align="right">USN Number</td>
+		<td width="40%">
+		<input name="usn" type="text" class="input_box" value="1RV13EC003" />
+		<input name="get_result" type="submit" class="inputButton" value="Get Result"/>
+		<font color="#EE0000"><b></b></font></td></td>
+	</tr>
+</table>
+
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTablenew">
+	<tr id="dataTable1">
+		<th width="10%" align="center">Subject Code</th>
+		<th width="40%" align="center">Subject</th>
+		<th width="10%" align="center">Grade</th>
+	</tr>
+<div ><font style="background-color:#3399FF">Name&nbsp;:&nbsp;ABHIJITH R</font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CH12</td>
+				<td width="40%" align="left">Engineering Chemistry</td>			
+				<td>
+				S	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CS13</td>
+				<td width="40%" align="left">Programming in C</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12EC14</td>
+				<td width="40%" align="left">Basics of Electronics Engineering</td>			
+				<td>
+				B	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12ME15</td>
+				<td width="40%" align="left">Basics of Mechanical Engineering</td>			
+				<td>
+				S	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12MA11C</td>
+				<td width="40%" align="left">Applied Mathematics-I</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+						<tr><td colspan="3">&nbsp;</td></tr>
+					 <tr  style="background:#FFFF00"><td align="center"><strong>SGPA</strong></td><td align="right" colspan="2">
+					 <strong>9.2</strong></td></tr>
+
+		</tr>
+</table>
+
+
+<table width="60%" id="dataTable" border="0" cellpadding="0" cellspacing="0">	
+	<tr> 
+		<td width="60%" colspan="3" align="center">Key to Grades: S-10, A-9, B-8, C-7, D-5, E-4</td>
+	</tr>
+	
+	<tr id="resultview"> 
+		<td width="60%" colspan="3" align="center"><a href="display_index.php">Back</a>	</td>
+	</tr>
+	
+	<tr>
+	<td width="60%" height="20" colspan="3" align="center"><font color="#EE0000"><b></b></font></td>	
+	</tr>
+</table>
+		
+</center>
+</form>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Results - R.V. College of Engineering,Bangalore</title>
+<link href="images/basic.css" rel="stylesheet" type="text/css" />
+<META name="ROBOTS" content="NOINDEX, NOFOLLOW">
+</head>
+
+<body>
+<link href="images/basic_admin.css" rel="stylesheet" type="text/css" />
+<div id="header">
+<div id="logo"></div>
+</div><form action="" method="post">
+<center>
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTable">
+	<tr class="headingText">
+		<th height="35" colspan="2" width="60%">
+		<center>Provisional  &nbsp;EC 1 Sem Results Dec-13/Jan-14</th>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Level</td>
+		<td width="40%" align="left">Under Graduation</td>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Program</td>
+		<td width="40%" align="left">Engineering</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Branch</td>
+		<td width="40%" align="left">Electronics & Comm Engg</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Semester</td>
+		<td width="40%" align="left">1</td>
+	</tr>	
+	
+	<tr>	
+		<td width="20%" align="right">USN Number</td>
+		<td width="40%">
+		<input name="usn" type="text" class="input_box" value="1RV13EC004" />
+		<input name="get_result" type="submit" class="inputButton" value="Get Result"/>
+		<font color="#EE0000"><b></b></font></td></td>
+	</tr>
+</table>
+
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTablenew">
+	<tr id="dataTable1">
+		<th width="10%" align="center">Subject Code</th>
+		<th width="40%" align="center">Subject</th>
+		<th width="10%" align="center">Grade</th>
+	</tr>
+<div ><font style="background-color:#3399FF">Name&nbsp;:&nbsp;ABHIJITH S</font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CH12</td>
+				<td width="40%" align="left">Engineering Chemistry</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CS13</td>
+				<td width="40%" align="left">Programming in C</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12EC14</td>
+				<td width="40%" align="left">Basics of Electronics Engineering</td>			
+				<td>
+				B	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12ME15</td>
+				<td width="40%" align="left">Basics of Mechanical Engineering</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12MA11C</td>
+				<td width="40%" align="left">Applied Mathematics-I</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+						<tr><td colspan="3">&nbsp;</td></tr>
+					 <tr  style="background:#FFFF00"><td align="center"><strong>SGPA</strong></td><td align="right" colspan="2">
+					 <strong>8.8</strong></td></tr>
+
+		</tr>
+</table>
+
+
+<table width="60%" id="dataTable" border="0" cellpadding="0" cellspacing="0">	
+	<tr> 
+		<td width="60%" colspan="3" align="center">Key to Grades: S-10, A-9, B-8, C-7, D-5, E-4</td>
+	</tr>
+	
+	<tr id="resultview"> 
+		<td width="60%" colspan="3" align="center"><a href="display_index.php">Back</a>	</td>
+	</tr>
+	
+	<tr>
+	<td width="60%" height="20" colspan="3" align="center"><font color="#EE0000"><b></b></font></td>	
+	</tr>
+</table>
+		
+</center>
+</form>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Results - R.V. College of Engineering,Bangalore</title>
+<link href="images/basic.css" rel="stylesheet" type="text/css" />
+<META name="ROBOTS" content="NOINDEX, NOFOLLOW">
+</head>
+
+<body>
+<link href="images/basic_admin.css" rel="stylesheet" type="text/css" />
+<div id="header">
+<div id="logo"></div>
+</div><form action="" method="post">
+<center>
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTable">
+	<tr class="headingText">
+		<th height="35" colspan="2" width="60%">
+		<center>Provisional  &nbsp;EC 1 Sem Results Dec-13/Jan-14</th>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Level</td>
+		<td width="40%" align="left">Under Graduation</td>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Program</td>
+		<td width="40%" align="left">Engineering</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Branch</td>
+		<td width="40%" align="left">Electronics & Comm Engg</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Semester</td>
+		<td width="40%" align="left">1</td>
+	</tr>	
+	
+	<tr>	
+		<td width="20%" align="right">USN Number</td>
+		<td width="40%">
+		<input name="usn" type="text" class="input_box" value="1RV13EC005" />
+		<input name="get_result" type="submit" class="inputButton" value="Get Result"/>
+		<font color="#EE0000"><b></b></font></td></td>
+	</tr>
+</table>
+
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTablenew">
+	<tr id="dataTable1">
+		<th width="10%" align="center">Subject Code</th>
+		<th width="40%" align="center">Subject</th>
+		<th width="10%" align="center">Grade</th>
+	</tr>
+<div ><font style="background-color:#3399FF">Name&nbsp;:&nbsp;ABHISHEK G</font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CH12</td>
+				<td width="40%" align="left">Engineering Chemistry</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CS13</td>
+				<td width="40%" align="left">Programming in C</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12EC14</td>
+				<td width="40%" align="left">Basics of Electronics Engineering</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12ME15</td>
+				<td width="40%" align="left">Basics of Mechanical Engineering</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12MA11C</td>
+				<td width="40%" align="left">Applied Mathematics-I</td>			
+				<td>
+				S	
+					</td>  
+		  </tr>	 
+						<tr><td colspan="3">&nbsp;</td></tr>
+					 <tr  style="background:#FFFF00"><td align="center"><strong>SGPA</strong></td><td align="right" colspan="2">
+					 <strong>9.2</strong></td></tr>
+
+		</tr>
+</table>
+
+
+<table width="60%" id="dataTable" border="0" cellpadding="0" cellspacing="0">	
+	<tr> 
+		<td width="60%" colspan="3" align="center">Key to Grades: S-10, A-9, B-8, C-7, D-5, E-4</td>
+	</tr>
+	
+	<tr id="resultview"> 
+		<td width="60%" colspan="3" align="center"><a href="display_index.php">Back</a>	</td>
+	</tr>
+	
+	<tr>
+	<td width="60%" height="20" colspan="3" align="center"><font color="#EE0000"><b></b></font></td>	
+	</tr>
+</table>
+		
+</center>
+</form>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Results - R.V. College of Engineering,Bangalore</title>
+<link href="images/basic.css" rel="stylesheet" type="text/css" />
+<META name="ROBOTS" content="NOINDEX, NOFOLLOW">
+</head>
+
+<body>
+<link href="images/basic_admin.css" rel="stylesheet" type="text/css" />
+<div id="header">
+<div id="logo"></div>
+</div><form action="" method="post">
+<center>
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTable">
+	<tr class="headingText">
+		<th height="35" colspan="2" width="60%">
+		<center>Provisional  &nbsp;EC 1 Sem Results Dec-13/Jan-14</th>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Level</td>
+		<td width="40%" align="left">Under Graduation</td>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Program</td>
+		<td width="40%" align="left">Engineering</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Branch</td>
+		<td width="40%" align="left">Electronics & Comm Engg</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Semester</td>
+		<td width="40%" align="left">1</td>
+	</tr>	
+	
+	<tr>	
+		<td width="20%" align="right">USN Number</td>
+		<td width="40%">
+		<input name="usn" type="text" class="input_box" value="1RV13EC006" />
+		<input name="get_result" type="submit" class="inputButton" value="Get Result"/>
+		<font color="#EE0000"><b></b></font></td></td>
+	</tr>
+</table>
+
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTablenew">
+	<tr id="dataTable1">
+		<th width="10%" align="center">Subject Code</th>
+		<th width="40%" align="center">Subject</th>
+		<th width="10%" align="center">Grade</th>
+	</tr>
+<div ><font style="background-color:#3399FF">Name&nbsp;:&nbsp;ABHISHEK S G</font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CH12</td>
+				<td width="40%" align="left">Engineering Chemistry</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CS13</td>
+				<td width="40%" align="left">Programming in C</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12EC14</td>
+				<td width="40%" align="left">Basics of Electronics Engineering</td>			
+				<td>
+				B	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12ME15</td>
+				<td width="40%" align="left">Basics of Mechanical Engineering</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12MA11C</td>
+				<td width="40%" align="left">Applied Mathematics-I</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+						<tr><td colspan="3">&nbsp;</td></tr>
+					 <tr  style="background:#FFFF00"><td align="center"><strong>SGPA</strong></td><td align="right" colspan="2">
+					 <strong>8.8</strong></td></tr>
+
+		</tr>
+</table>
+
+
+<table width="60%" id="dataTable" border="0" cellpadding="0" cellspacing="0">	
+	<tr> 
+		<td width="60%" colspan="3" align="center">Key to Grades: S-10, A-9, B-8, C-7, D-5, E-4</td>
+	</tr>
+	
+	<tr id="resultview"> 
+		<td width="60%" colspan="3" align="center"><a href="display_index.php">Back</a>	</td>
+	</tr>
+	
+	<tr>
+	<td width="60%" height="20" colspan="3" align="center"><font color="#EE0000"><b></b></font></td>	
+	</tr>
+</table>
+		
+</center>
+</form>
+</body>
+</html>
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Results - R.V. College of Engineering,Bangalore</title>
+<link href="images/basic.css" rel="stylesheet" type="text/css" />
+<META name="ROBOTS" content="NOINDEX, NOFOLLOW">
+</head>
+
+<body>
+<link href="images/basic_admin.css" rel="stylesheet" type="text/css" />
+<div id="header">
+<div id="logo"></div>
+</div><form action="" method="post">
+<center>
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTable">
+	<tr class="headingText">
+		<th height="35" colspan="2" width="60%">
+		<center>Provisional  &nbsp;EC 1 Sem Results Dec-13/Jan-14</th>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Level</td>
+		<td width="40%" align="left">Under Graduation</td>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Program</td>
+		<td width="40%" align="left">Engineering</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Branch</td>
+		<td width="40%" align="left">Electronics & Comm Engg</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Semester</td>
+		<td width="40%" align="left">1</td>
+	</tr>	
+	
+	<tr>	
+		<td width="20%" align="right">USN Number</td>
+		<td width="40%">
+		<input name="usn" type="text" class="input_box" value="1RV13EC001" />
+		<input name="get_result" type="submit" class="inputButton" value="Get Result"/>
+		<font color="#EE0000"><b></b></font></td></td>
+	</tr>
+</table>
+
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTablenew">
+	<tr id="dataTable1">
+		<th width="10%" align="center">Subject Code</th>
+		<th width="40%" align="center">Subject</th>
+		<th width="10%" align="center">Grade</th>
+	</tr>
+<div ><font style="background-color:#3399FF">Name&nbsp;:&nbsp;A LALIT KUMAR</font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CH12</td>
+				<td width="40%" align="left">Engineering Chemistry</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CS13</td>
+				<td width="40%" align="left">Programming in C</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12EC14</td>
+				<td width="40%" align="left">Basics of Electronics Engineering</td>			
+				<td>
+				B	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12ME15</td>
+				<td width="40%" align="left">Basics of Mechanical Engineering</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12MA11C</td>
+				<td width="40%" align="left">Applied Mathematics-I</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+						<tr><td colspan="3">&nbsp;</td></tr>
+					 <tr  style="background:#FFFF00"><td align="center"><strong>SGPA</strong></td><td align="right" colspan="2">
+					 <strong>8.8</strong></td></tr>
+
+		</tr>
+</table>
+
+
+<table width="60%" id="dataTable" border="0" cellpadding="0" cellspacing="0">	
+	<tr> 
+		<td width="60%" colspan="3" align="center">Key to Grades: S-10, A-9, B-8, C-7, D-5, E-4</td>
+	</tr>
+	
+	<tr id="resultview"> 
+		<td width="60%" colspan="3" align="center"><a href="display_index.php">Back</a>	</td>
+	</tr>
+	
+	<tr>
+	<td width="60%" height="20" colspan="3" align="center"><font color="#EE0000"><b></b></font></td>	
+	</tr>
+</table>
+		
+</center>
+</form>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Results - R.V. College of Engineering,Bangalore</title>
+<link href="images/basic.css" rel="stylesheet" type="text/css" />
+<META name="ROBOTS" content="NOINDEX, NOFOLLOW">
+</head>
+
+<body>
+<link href="images/basic_admin.css" rel="stylesheet" type="text/css" />
+<div id="header">
+<div id="logo"></div>
+</div><form action="" method="post">
+<center>
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTable">
+	<tr class="headingText">
+		<th height="35" colspan="2" width="60%">
+		<center>Provisional  &nbsp;EC 1 Sem Results Dec-13/Jan-14</th>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Level</td>
+		<td width="40%" align="left">Under Graduation</td>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Program</td>
+		<td width="40%" align="left">Engineering</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Branch</td>
+		<td width="40%" align="left">Electronics & Comm Engg</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Semester</td>
+		<td width="40%" align="left">1</td>
+	</tr>	
+	
+	<tr>	
+		<td width="20%" align="right">USN Number</td>
+		<td width="40%">
+		<input name="usn" type="text" class="input_box" value="1RV13EC002" />
+		<input name="get_result" type="submit" class="inputButton" value="Get Result"/>
+		<font color="#EE0000"><b></b></font></td></td>
+	</tr>
+</table>
+
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTablenew">
+	<tr id="dataTable1">
+		<th width="10%" align="center">Subject Code</th>
+		<th width="40%" align="center">Subject</th>
+		<th width="10%" align="center">Grade</th>
+	</tr>
+<div ><font style="background-color:#3399FF">Name&nbsp;:&nbsp;ABHIJEET K NAYAK</font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CH12</td>
+				<td width="40%" align="left">Engineering Chemistry</td>			
+				<td>
+				S	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CS13</td>
+				<td width="40%" align="left">Programming in C</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12EC14</td>
+				<td width="40%" align="left">Basics of Electronics Engineering</td>			
+				<td>
+				S	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12ME15</td>
+				<td width="40%" align="left">Basics of Mechanical Engineering</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12MA11C</td>
+				<td width="40%" align="left">Applied Mathematics-I</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+						<tr><td colspan="3">&nbsp;</td></tr>
+					 <tr  style="background:#FFFF00"><td align="center"><strong>SGPA</strong></td><td align="right" colspan="2">
+					 <strong>9.4</strong></td></tr>
+
+		</tr>
+</table>
+
+
+<table width="60%" id="dataTable" border="0" cellpadding="0" cellspacing="0">	
+	<tr> 
+		<td width="60%" colspan="3" align="center">Key to Grades: S-10, A-9, B-8, C-7, D-5, E-4</td>
+	</tr>
+	
+	<tr id="resultview"> 
+		<td width="60%" colspan="3" align="center"><a href="display_index.php">Back</a>	</td>
+	</tr>
+	
+	<tr>
+	<td width="60%" height="20" colspan="3" align="center"><font color="#EE0000"><b></b></font></td>	
+	</tr>
+</table>
+		
+</center>
+</form>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Results - R.V. College of Engineering,Bangalore</title>
+<link href="images/basic.css" rel="stylesheet" type="text/css" />
+<META name="ROBOTS" content="NOINDEX, NOFOLLOW">
+</head>
+
+<body>
+<link href="images/basic_admin.css" rel="stylesheet" type="text/css" />
+<div id="header">
+<div id="logo"></div>
+</div><form action="" method="post">
+<center>
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTable">
+	<tr class="headingText">
+		<th height="35" colspan="2" width="60%">
+		<center>Provisional  &nbsp;EC 1 Sem Results Dec-13/Jan-14</th>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Level</td>
+		<td width="40%" align="left">Under Graduation</td>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Program</td>
+		<td width="40%" align="left">Engineering</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Branch</td>
+		<td width="40%" align="left">Electronics & Comm Engg</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Semester</td>
+		<td width="40%" align="left">1</td>
+	</tr>	
+	
+	<tr>	
+		<td width="20%" align="right">USN Number</td>
+		<td width="40%">
+		<input name="usn" type="text" class="input_box" value="1RV13EC003" />
+		<input name="get_result" type="submit" class="inputButton" value="Get Result"/>
+		<font color="#EE0000"><b></b></font></td></td>
+	</tr>
+</table>
+
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTablenew">
+	<tr id="dataTable1">
+		<th width="10%" align="center">Subject Code</th>
+		<th width="40%" align="center">Subject</th>
+		<th width="10%" align="center">Grade</th>
+	</tr>
+<div ><font style="background-color:#3399FF">Name&nbsp;:&nbsp;ABHIJITH R</font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CH12</td>
+				<td width="40%" align="left">Engineering Chemistry</td>			
+				<td>
+				S	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CS13</td>
+				<td width="40%" align="left">Programming in C</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12EC14</td>
+				<td width="40%" align="left">Basics of Electronics Engineering</td>			
+				<td>
+				B	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12ME15</td>
+				<td width="40%" align="left">Basics of Mechanical Engineering</td>			
+				<td>
+				S	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12MA11C</td>
+				<td width="40%" align="left">Applied Mathematics-I</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+						<tr><td colspan="3">&nbsp;</td></tr>
+					 <tr  style="background:#FFFF00"><td align="center"><strong>SGPA</strong></td><td align="right" colspan="2">
+					 <strong>9.2</strong></td></tr>
+
+		</tr>
+</table>
+
+
+<table width="60%" id="dataTable" border="0" cellpadding="0" cellspacing="0">	
+	<tr> 
+		<td width="60%" colspan="3" align="center">Key to Grades: S-10, A-9, B-8, C-7, D-5, E-4</td>
+	</tr>
+	
+	<tr id="resultview"> 
+		<td width="60%" colspan="3" align="center"><a href="display_index.php">Back</a>	</td>
+	</tr>
+	
+	<tr>
+	<td width="60%" height="20" colspan="3" align="center"><font color="#EE0000"><b></b></font></td>	
+	</tr>
+</table>
+		
+</center>
+</form>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Results - R.V. College of Engineering,Bangalore</title>
+<link href="images/basic.css" rel="stylesheet" type="text/css" />
+<META name="ROBOTS" content="NOINDEX, NOFOLLOW">
+</head>
+
+<body>
+<link href="images/basic_admin.css" rel="stylesheet" type="text/css" />
+<div id="header">
+<div id="logo"></div>
+</div><form action="" method="post">
+<center>
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTable">
+	<tr class="headingText">
+		<th height="35" colspan="2" width="60%">
+		<center>Provisional  &nbsp;EC 1 Sem Results Dec-13/Jan-14</th>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Level</td>
+		<td width="40%" align="left">Under Graduation</td>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Program</td>
+		<td width="40%" align="left">Engineering</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Branch</td>
+		<td width="40%" align="left">Electronics & Comm Engg</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Semester</td>
+		<td width="40%" align="left">1</td>
+	</tr>	
+	
+	<tr>	
+		<td width="20%" align="right">USN Number</td>
+		<td width="40%">
+		<input name="usn" type="text" class="input_box" value="1RV13EC004" />
+		<input name="get_result" type="submit" class="inputButton" value="Get Result"/>
+		<font color="#EE0000"><b></b></font></td></td>
+	</tr>
+</table>
+
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTablenew">
+	<tr id="dataTable1">
+		<th width="10%" align="center">Subject Code</th>
+		<th width="40%" align="center">Subject</th>
+		<th width="10%" align="center">Grade</th>
+	</tr>
+<div ><font style="background-color:#3399FF">Name&nbsp;:&nbsp;ABHIJITH S</font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CH12</td>
+				<td width="40%" align="left">Engineering Chemistry</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CS13</td>
+				<td width="40%" align="left">Programming in C</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12EC14</td>
+				<td width="40%" align="left">Basics of Electronics Engineering</td>			
+				<td>
+				B	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12ME15</td>
+				<td width="40%" align="left">Basics of Mechanical Engineering</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12MA11C</td>
+				<td width="40%" align="left">Applied Mathematics-I</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+						<tr><td colspan="3">&nbsp;</td></tr>
+					 <tr  style="background:#FFFF00"><td align="center"><strong>SGPA</strong></td><td align="right" colspan="2">
+					 <strong>8.8</strong></td></tr>
+
+		</tr>
+</table>
+
+
+<table width="60%" id="dataTable" border="0" cellpadding="0" cellspacing="0">	
+	<tr> 
+		<td width="60%" colspan="3" align="center">Key to Grades: S-10, A-9, B-8, C-7, D-5, E-4</td>
+	</tr>
+	
+	<tr id="resultview"> 
+		<td width="60%" colspan="3" align="center"><a href="display_index.php">Back</a>	</td>
+	</tr>
+	
+	<tr>
+	<td width="60%" height="20" colspan="3" align="center"><font color="#EE0000"><b></b></font></td>	
+	</tr>
+</table>
+		
+</center>
+</form>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Results - R.V. College of Engineering,Bangalore</title>
+<link href="images/basic.css" rel="stylesheet" type="text/css" />
+<META name="ROBOTS" content="NOINDEX, NOFOLLOW">
+</head>
+
+<body>
+<link href="images/basic_admin.css" rel="stylesheet" type="text/css" />
+<div id="header">
+<div id="logo"></div>
+</div><form action="" method="post">
+<center>
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTable">
+	<tr class="headingText">
+		<th height="35" colspan="2" width="60%">
+		<center>Provisional  &nbsp;EC 1 Sem Results Dec-13/Jan-14</th>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Level</td>
+		<td width="40%" align="left">Under Graduation</td>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Program</td>
+		<td width="40%" align="left">Engineering</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Branch</td>
+		<td width="40%" align="left">Electronics & Comm Engg</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Semester</td>
+		<td width="40%" align="left">1</td>
+	</tr>	
+	
+	<tr>	
+		<td width="20%" align="right">USN Number</td>
+		<td width="40%">
+		<input name="usn" type="text" class="input_box" value="1RV13EC001" />
+		<input name="get_result" type="submit" class="inputButton" value="Get Result"/>
+		<font color="#EE0000"><b></b></font></td></td>
+	</tr>
+</table>
+
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTablenew">
+	<tr id="dataTable1">
+		<th width="10%" align="center">Subject Code</th>
+		<th width="40%" align="center">Subject</th>
+		<th width="10%" align="center">Grade</th>
+	</tr>
+<div ><font style="background-color:#3399FF">Name&nbsp;:&nbsp;A LALIT KUMAR</font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CH12</td>
+				<td width="40%" align="left">Engineering Chemistry</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CS13</td>
+				<td width="40%" align="left">Programming in C</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12EC14</td>
+				<td width="40%" align="left">Basics of Electronics Engineering</td>			
+				<td>
+				B	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12ME15</td>
+				<td width="40%" align="left">Basics of Mechanical Engineering</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12MA11C</td>
+				<td width="40%" align="left">Applied Mathematics-I</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+						<tr><td colspan="3">&nbsp;</td></tr>
+					 <tr  style="background:#FFFF00"><td align="center"><strong>SGPA</strong></td><td align="right" colspan="2">
+					 <strong>8.8</strong></td></tr>
+
+		</tr>
+</table>
+
+
+<table width="60%" id="dataTable" border="0" cellpadding="0" cellspacing="0">	
+	<tr> 
+		<td width="60%" colspan="3" align="center">Key to Grades: S-10, A-9, B-8, C-7, D-5, E-4</td>
+	</tr>
+	
+	<tr id="resultview"> 
+		<td width="60%" colspan="3" align="center"><a href="display_index.php">Back</a>	</td>
+	</tr>
+	
+	<tr>
+	<td width="60%" height="20" colspan="3" align="center"><font color="#EE0000"><b></b></font></td>	
+	</tr>
+</table>
+		
+</center>
+</form>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Results - R.V. College of Engineering,Bangalore</title>
+<link href="images/basic.css" rel="stylesheet" type="text/css" />
+<META name="ROBOTS" content="NOINDEX, NOFOLLOW">
+</head>
+
+<body>
+<link href="images/basic_admin.css" rel="stylesheet" type="text/css" />
+<div id="header">
+<div id="logo"></div>
+</div><form action="" method="post">
+<center>
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTable">
+	<tr class="headingText">
+		<th height="35" colspan="2" width="60%">
+		<center>Provisional  &nbsp;EC 1 Sem Results Dec-13/Jan-14</th>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Level</td>
+		<td width="40%" align="left">Under Graduation</td>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Program</td>
+		<td width="40%" align="left">Engineering</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Branch</td>
+		<td width="40%" align="left">Electronics & Comm Engg</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Semester</td>
+		<td width="40%" align="left">1</td>
+	</tr>	
+	
+	<tr>	
+		<td width="20%" align="right">USN Number</td>
+		<td width="40%">
+		<input name="usn" type="text" class="input_box" value="1RV13EC002" />
+		<input name="get_result" type="submit" class="inputButton" value="Get Result"/>
+		<font color="#EE0000"><b></b></font></td></td>
+	</tr>
+</table>
+
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTablenew">
+	<tr id="dataTable1">
+		<th width="10%" align="center">Subject Code</th>
+		<th width="40%" align="center">Subject</th>
+		<th width="10%" align="center">Grade</th>
+	</tr>
+<div ><font style="background-color:#3399FF">Name&nbsp;:&nbsp;ABHIJEET K NAYAK</font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CH12</td>
+				<td width="40%" align="left">Engineering Chemistry</td>			
+				<td>
+				S	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CS13</td>
+				<td width="40%" align="left">Programming in C</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12EC14</td>
+				<td width="40%" align="left">Basics of Electronics Engineering</td>			
+				<td>
+				S	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12ME15</td>
+				<td width="40%" align="left">Basics of Mechanical Engineering</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12MA11C</td>
+				<td width="40%" align="left">Applied Mathematics-I</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+						<tr><td colspan="3">&nbsp;</td></tr>
+					 <tr  style="background:#FFFF00"><td align="center"><strong>SGPA</strong></td><td align="right" colspan="2">
+					 <strong>9.4</strong></td></tr>
+
+		</tr>
+</table>
+
+
+<table width="60%" id="dataTable" border="0" cellpadding="0" cellspacing="0">	
+	<tr> 
+		<td width="60%" colspan="3" align="center">Key to Grades: S-10, A-9, B-8, C-7, D-5, E-4</td>
+	</tr>
+	
+	<tr id="resultview"> 
+		<td width="60%" colspan="3" align="center"><a href="display_index.php">Back</a>	</td>
+	</tr>
+	
+	<tr>
+	<td width="60%" height="20" colspan="3" align="center"><font color="#EE0000"><b></b></font></td>	
+	</tr>
+</table>
+		
+</center>
+</form>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Results - R.V. College of Engineering,Bangalore</title>
+<link href="images/basic.css" rel="stylesheet" type="text/css" />
+<META name="ROBOTS" content="NOINDEX, NOFOLLOW">
+</head>
+
+<body>
+<link href="images/basic_admin.css" rel="stylesheet" type="text/css" />
+<div id="header">
+<div id="logo"></div>
+</div><form action="" method="post">
+<center>
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTable">
+	<tr class="headingText">
+		<th height="35" colspan="2" width="60%">
+		<center>Provisional  &nbsp;EC 1 Sem Results Dec-13/Jan-14</th>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Level</td>
+		<td width="40%" align="left">Under Graduation</td>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Program</td>
+		<td width="40%" align="left">Engineering</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Branch</td>
+		<td width="40%" align="left">Electronics & Comm Engg</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Semester</td>
+		<td width="40%" align="left">1</td>
+	</tr>	
+	
+	<tr>	
+		<td width="20%" align="right">USN Number</td>
+		<td width="40%">
+		<input name="usn" type="text" class="input_box" value="1RV13EC003" />
+		<input name="get_result" type="submit" class="inputButton" value="Get Result"/>
+		<font color="#EE0000"><b></b></font></td></td>
+	</tr>
+</table>
+
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTablenew">
+	<tr id="dataTable1">
+		<th width="10%" align="center">Subject Code</th>
+		<th width="40%" align="center">Subject</th>
+		<th width="10%" align="center">Grade</th>
+	</tr>
+<div ><font style="background-color:#3399FF">Name&nbsp;:&nbsp;ABHIJITH R</font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CH12</td>
+				<td width="40%" align="left">Engineering Chemistry</td>			
+				<td>
+				S	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CS13</td>
+				<td width="40%" align="left">Programming in C</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12EC14</td>
+				<td width="40%" align="left">Basics of Electronics Engineering</td>			
+				<td>
+				B	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12ME15</td>
+				<td width="40%" align="left">Basics of Mechanical Engineering</td>			
+				<td>
+				S	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12MA11C</td>
+				<td width="40%" align="left">Applied Mathematics-I</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+						<tr><td colspan="3">&nbsp;</td></tr>
+					 <tr  style="background:#FFFF00"><td align="center"><strong>SGPA</strong></td><td align="right" colspan="2">
+					 <strong>9.2</strong></td></tr>
+
+		</tr>
+</table>
+
+
+<table width="60%" id="dataTable" border="0" cellpadding="0" cellspacing="0">	
+	<tr> 
+		<td width="60%" colspan="3" align="center">Key to Grades: S-10, A-9, B-8, C-7, D-5, E-4</td>
+	</tr>
+	
+	<tr id="resultview"> 
+		<td width="60%" colspan="3" align="center"><a href="display_index.php">Back</a>	</td>
+	</tr>
+	
+	<tr>
+	<td width="60%" height="20" colspan="3" align="center"><font color="#EE0000"><b></b></font></td>	
+	</tr>
+</table>
+		
+</center>
+</form>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Results - R.V. College of Engineering,Bangalore</title>
+<link href="images/basic.css" rel="stylesheet" type="text/css" />
+<META name="ROBOTS" content="NOINDEX, NOFOLLOW">
+</head>
+
+<body>
+<link href="images/basic_admin.css" rel="stylesheet" type="text/css" />
+<div id="header">
+<div id="logo"></div>
+</div><form action="" method="post">
+<center>
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTable">
+	<tr class="headingText">
+		<th height="35" colspan="2" width="60%">
+		<center>Provisional  &nbsp;EC 1 Sem Results Dec-13/Jan-14</th>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Level</td>
+		<td width="40%" align="left">Under Graduation</td>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Program</td>
+		<td width="40%" align="left">Engineering</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Branch</td>
+		<td width="40%" align="left">Electronics & Comm Engg</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Semester</td>
+		<td width="40%" align="left">1</td>
+	</tr>	
+	
+	<tr>	
+		<td width="20%" align="right">USN Number</td>
+		<td width="40%">
+		<input name="usn" type="text" class="input_box" value="1RV13EC004" />
+		<input name="get_result" type="submit" class="inputButton" value="Get Result"/>
+		<font color="#EE0000"><b></b></font></td></td>
+	</tr>
+</table>
+
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTablenew">
+	<tr id="dataTable1">
+		<th width="10%" align="center">Subject Code</th>
+		<th width="40%" align="center">Subject</th>
+		<th width="10%" align="center">Grade</th>
+	</tr>
+<div ><font style="background-color:#3399FF">Name&nbsp;:&nbsp;ABHIJITH S</font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CH12</td>
+				<td width="40%" align="left">Engineering Chemistry</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CS13</td>
+				<td width="40%" align="left">Programming in C</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12EC14</td>
+				<td width="40%" align="left">Basics of Electronics Engineering</td>			
+				<td>
+				B	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12ME15</td>
+				<td width="40%" align="left">Basics of Mechanical Engineering</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12MA11C</td>
+				<td width="40%" align="left">Applied Mathematics-I</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+						<tr><td colspan="3">&nbsp;</td></tr>
+					 <tr  style="background:#FFFF00"><td align="center"><strong>SGPA</strong></td><td align="right" colspan="2">
+					 <strong>8.8</strong></td></tr>
+
+		</tr>
+</table>
+
+
+<table width="60%" id="dataTable" border="0" cellpadding="0" cellspacing="0">	
+	<tr> 
+		<td width="60%" colspan="3" align="center">Key to Grades: S-10, A-9, B-8, C-7, D-5, E-4</td>
+	</tr>
+	
+	<tr id="resultview"> 
+		<td width="60%" colspan="3" align="center"><a href="display_index.php">Back</a>	</td>
+	</tr>
+	
+	<tr>
+	<td width="60%" height="20" colspan="3" align="center"><font color="#EE0000"><b></b></font></td>	
+	</tr>
+</table>
+		
+</center>
+</form>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Results - R.V. College of Engineering,Bangalore</title>
+<link href="images/basic.css" rel="stylesheet" type="text/css" />
+<META name="ROBOTS" content="NOINDEX, NOFOLLOW">
+</head>
+
+<body>
+<link href="images/basic_admin.css" rel="stylesheet" type="text/css" />
+<div id="header">
+<div id="logo"></div>
+</div><form action="" method="post">
+<center>
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTable">
+	<tr class="headingText">
+		<th height="35" colspan="2" width="60%">
+		<center>Provisional  &nbsp;EC 1 Sem Results Dec-13/Jan-14</th>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Level</td>
+		<td width="40%" align="left">Under Graduation</td>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Program</td>
+		<td width="40%" align="left">Engineering</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Branch</td>
+		<td width="40%" align="left">Electronics & Comm Engg</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Semester</td>
+		<td width="40%" align="left">1</td>
+	</tr>	
+	
+	<tr>	
+		<td width="20%" align="right">USN Number</td>
+		<td width="40%">
+		<input name="usn" type="text" class="input_box" value="1RV13EC001" />
+		<input name="get_result" type="submit" class="inputButton" value="Get Result"/>
+		<font color="#EE0000"><b></b></font></td></td>
+	</tr>
+</table>
+
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTablenew">
+	<tr id="dataTable1">
+		<th width="10%" align="center">Subject Code</th>
+		<th width="40%" align="center">Subject</th>
+		<th width="10%" align="center">Grade</th>
+	</tr>
+<div ><font style="background-color:#3399FF">Name&nbsp;:&nbsp;A LALIT KUMAR</font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CH12</td>
+				<td width="40%" align="left">Engineering Chemistry</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CS13</td>
+				<td width="40%" align="left">Programming in C</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12EC14</td>
+				<td width="40%" align="left">Basics of Electronics Engineering</td>			
+				<td>
+				B	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12ME15</td>
+				<td width="40%" align="left">Basics of Mechanical Engineering</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12MA11C</td>
+				<td width="40%" align="left">Applied Mathematics-I</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+						<tr><td colspan="3">&nbsp;</td></tr>
+					 <tr  style="background:#FFFF00"><td align="center"><strong>SGPA</strong></td><td align="right" colspan="2">
+					 <strong>8.8</strong></td></tr>
+
+		</tr>
+</table>
+
+
+<table width="60%" id="dataTable" border="0" cellpadding="0" cellspacing="0">	
+	<tr> 
+		<td width="60%" colspan="3" align="center">Key to Grades: S-10, A-9, B-8, C-7, D-5, E-4</td>
+	</tr>
+	
+	<tr id="resultview"> 
+		<td width="60%" colspan="3" align="center"><a href="display_index.php">Back</a>	</td>
+	</tr>
+	
+	<tr>
+	<td width="60%" height="20" colspan="3" align="center"><font color="#EE0000"><b></b></font></td>	
+	</tr>
+</table>
+		
+</center>
+</form>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Results - R.V. College of Engineering,Bangalore</title>
+<link href="images/basic.css" rel="stylesheet" type="text/css" />
+<META name="ROBOTS" content="NOINDEX, NOFOLLOW">
+</head>
+
+<body>
+<link href="images/basic_admin.css" rel="stylesheet" type="text/css" />
+<div id="header">
+<div id="logo"></div>
+</div><form action="" method="post">
+<center>
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTable">
+	<tr class="headingText">
+		<th height="35" colspan="2" width="60%">
+		<center>Provisional  &nbsp;EC 1 Sem Results Dec-13/Jan-14</th>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Level</td>
+		<td width="40%" align="left">Under Graduation</td>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Program</td>
+		<td width="40%" align="left">Engineering</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Branch</td>
+		<td width="40%" align="left">Electronics & Comm Engg</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Semester</td>
+		<td width="40%" align="left">1</td>
+	</tr>	
+	
+	<tr>	
+		<td width="20%" align="right">USN Number</td>
+		<td width="40%">
+		<input name="usn" type="text" class="input_box" value="1RV13EC002" />
+		<input name="get_result" type="submit" class="inputButton" value="Get Result"/>
+		<font color="#EE0000"><b></b></font></td></td>
+	</tr>
+</table>
+
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTablenew">
+	<tr id="dataTable1">
+		<th width="10%" align="center">Subject Code</th>
+		<th width="40%" align="center">Subject</th>
+		<th width="10%" align="center">Grade</th>
+	</tr>
+<div ><font style="background-color:#3399FF">Name&nbsp;:&nbsp;ABHIJEET K NAYAK</font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CH12</td>
+				<td width="40%" align="left">Engineering Chemistry</td>			
+				<td>
+				S	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CS13</td>
+				<td width="40%" align="left">Programming in C</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12EC14</td>
+				<td width="40%" align="left">Basics of Electronics Engineering</td>			
+				<td>
+				S	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12ME15</td>
+				<td width="40%" align="left">Basics of Mechanical Engineering</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12MA11C</td>
+				<td width="40%" align="left">Applied Mathematics-I</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+						<tr><td colspan="3">&nbsp;</td></tr>
+					 <tr  style="background:#FFFF00"><td align="center"><strong>SGPA</strong></td><td align="right" colspan="2">
+					 <strong>9.4</strong></td></tr>
+
+		</tr>
+</table>
+
+
+<table width="60%" id="dataTable" border="0" cellpadding="0" cellspacing="0">	
+	<tr> 
+		<td width="60%" colspan="3" align="center">Key to Grades: S-10, A-9, B-8, C-7, D-5, E-4</td>
+	</tr>
+	
+	<tr id="resultview"> 
+		<td width="60%" colspan="3" align="center"><a href="display_index.php">Back</a>	</td>
+	</tr>
+	
+	<tr>
+	<td width="60%" height="20" colspan="3" align="center"><font color="#EE0000"><b></b></font></td>	
+	</tr>
+</table>
+		
+</center>
+</form>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Results - R.V. College of Engineering,Bangalore</title>
+<link href="images/basic.css" rel="stylesheet" type="text/css" />
+<META name="ROBOTS" content="NOINDEX, NOFOLLOW">
+</head>
+
+<body>
+<link href="images/basic_admin.css" rel="stylesheet" type="text/css" />
+<div id="header">
+<div id="logo"></div>
+</div><form action="" method="post">
+<center>
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTable">
+	<tr class="headingText">
+		<th height="35" colspan="2" width="60%">
+		<center>Provisional  &nbsp;EC 1 Sem Results Dec-13/Jan-14</th>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Level</td>
+		<td width="40%" align="left">Under Graduation</td>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Program</td>
+		<td width="40%" align="left">Engineering</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Branch</td>
+		<td width="40%" align="left">Electronics & Comm Engg</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Semester</td>
+		<td width="40%" align="left">1</td>
+	</tr>	
+	
+	<tr>	
+		<td width="20%" align="right">USN Number</td>
+		<td width="40%">
+		<input name="usn" type="text" class="input_box" value="1RV13EC003" />
+		<input name="get_result" type="submit" class="inputButton" value="Get Result"/>
+		<font color="#EE0000"><b></b></font></td></td>
+	</tr>
+</table>
+
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTablenew">
+	<tr id="dataTable1">
+		<th width="10%" align="center">Subject Code</th>
+		<th width="40%" align="center">Subject</th>
+		<th width="10%" align="center">Grade</th>
+	</tr>
+<div ><font style="background-color:#3399FF">Name&nbsp;:&nbsp;ABHIJITH R</font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CH12</td>
+				<td width="40%" align="left">Engineering Chemistry</td>			
+				<td>
+				S	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CS13</td>
+				<td width="40%" align="left">Programming in C</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12EC14</td>
+				<td width="40%" align="left">Basics of Electronics Engineering</td>			
+				<td>
+				B	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12ME15</td>
+				<td width="40%" align="left">Basics of Mechanical Engineering</td>			
+				<td>
+				S	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12MA11C</td>
+				<td width="40%" align="left">Applied Mathematics-I</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+						<tr><td colspan="3">&nbsp;</td></tr>
+					 <tr  style="background:#FFFF00"><td align="center"><strong>SGPA</strong></td><td align="right" colspan="2">
+					 <strong>9.2</strong></td></tr>
+
+		</tr>
+</table>
+
+
+<table width="60%" id="dataTable" border="0" cellpadding="0" cellspacing="0">	
+	<tr> 
+		<td width="60%" colspan="3" align="center">Key to Grades: S-10, A-9, B-8, C-7, D-5, E-4</td>
+	</tr>
+	
+	<tr id="resultview"> 
+		<td width="60%" colspan="3" align="center"><a href="display_index.php">Back</a>	</td>
+	</tr>
+	
+	<tr>
+	<td width="60%" height="20" colspan="3" align="center"><font color="#EE0000"><b></b></font></td>	
+	</tr>
+</table>
+		
+</center>
+</form>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Results - R.V. College of Engineering,Bangalore</title>
+<link href="images/basic.css" rel="stylesheet" type="text/css" />
+<META name="ROBOTS" content="NOINDEX, NOFOLLOW">
+</head>
+
+<body>
+<link href="images/basic_admin.css" rel="stylesheet" type="text/css" />
+<div id="header">
+<div id="logo"></div>
+</div><form action="" method="post">
+<center>
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTable">
+	<tr class="headingText">
+		<th height="35" colspan="2" width="60%">
+		<center>Provisional  &nbsp;EC 1 Sem Results Dec-13/Jan-14</th>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Level</td>
+		<td width="40%" align="left">Under Graduation</td>
+	</tr>
+	<tr>
+		<td width="20%" align="right">Program</td>
+		<td width="40%" align="left">Engineering</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Branch</td>
+		<td width="40%" align="left">Electronics & Comm Engg</td>
+	</tr>
+	<tr>	
+		<td width="20%" align="right">Semester</td>
+		<td width="40%" align="left">1</td>
+	</tr>	
+	
+	<tr>	
+		<td width="20%" align="right">USN Number</td>
+		<td width="40%">
+		<input name="usn" type="text" class="input_box" value="1RV13EC004" />
+		<input name="get_result" type="submit" class="inputButton" value="Get Result"/>
+		<font color="#EE0000"><b></b></font></td></td>
+	</tr>
+</table>
+
+<table width="60%" border="0" cellpadding="0" cellspacing="0" id="dataTablenew">
+	<tr id="dataTable1">
+		<th width="10%" align="center">Subject Code</th>
+		<th width="40%" align="center">Subject</th>
+		<th width="10%" align="center">Grade</th>
+	</tr>
+<div ><font style="background-color:#3399FF">Name&nbsp;:&nbsp;ABHIJITH S</font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CH12</td>
+				<td width="40%" align="left">Engineering Chemistry</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12CS13</td>
+				<td width="40%" align="left">Programming in C</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12EC14</td>
+				<td width="40%" align="left">Basics of Electronics Engineering</td>			
+				<td>
+				B	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12ME15</td>
+				<td width="40%" align="left">Basics of Mechanical Engineering</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+				<div ><font style="background-color:#3399FF"></font></div>
+					<tr id="resultview">
+				<td width="10%" align="center">12MA11C</td>
+				<td width="40%" align="left">Applied Mathematics-I</td>			
+				<td>
+				A	
+					</td>  
+		  </tr>	 
+						<tr><td colspan="3">&nbsp;</td></tr>
+					 <tr  style="background:#FFFF00"><td align="center"><strong>SGPA</strong></td><td align="right" colspan="2">
+					 <strong>8.8</strong></td></tr>
+
+		</tr>
+</table>
+
+
+<table width="60%" id="dataTable" border="0" cellpadding="0" cellspacing="0">	
+	<tr> 
+		<td width="60%" colspan="3" align="center">Key to Grades: S-10, A-9, B-8, C-7, D-5, E-4</td>
+	</tr>
+	
+	<tr id="resultview"> 
+		<td width="60%" colspan="3" align="center"><a href="display_index.php">Back</a>	</td>
+	</tr>
+	
+	<tr>
+	<td width="60%" height="20" colspan="3" align="center"><font color="#EE0000"><b></b></font></td>	
+	</tr>
+</table>
+		
+</center>
+</form>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
